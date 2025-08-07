@@ -70,9 +70,9 @@ repo_name: salman-mustapa/glossary-tech
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/samrifa
+      link: https://github.com/salman-mustapa
     - icon: fontawesome/regular/envelope
-      link: mailto:samrifa@example.com
+      link: mailto:salman.mustapa@outlook.com
   generator: false
 
 copyright: |
