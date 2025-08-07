@@ -2,6 +2,11 @@
 
 Panduan lengkap istilah-istilah penting dalam IT, Cybersecurity, AI, dan teknologi emerging. Repository ini berfungsi sebagai referensi terminologi teknis di berbagai domain teknologi.
 
+
+**📖 Baca selengkapnya di:** [https://salman-mustapa.github.io/glossary-tech/](https://salman-mustapa.github.io/glossary-tech/)
+
+> Akan selalu up-to-date dan dapat diakses dari mana saja tanpa perlu install dependencies lokal.
+
 ---
 
 ## 📚 Glosarium Tersedia
