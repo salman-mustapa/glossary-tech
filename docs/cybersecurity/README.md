@@ -8,16 +8,16 @@ Comprehensive glossary of cybersecurity terms, attack methods, defense mechanism
 
 | Istilah | Definisi |
 |---------|----------|
-| **APT (Advanced Persistent Threat)** | Serangan sophisticated dan berkelanjutan dimana attacker mempertahankan akses tanpa terdeteksi |
-| **Backdoor** | Hidden method untuk bypassing normal authentication untuk mengakses sistem |
-| **Botnet** | Network of compromised computers yang dikendalikan secara remote untuk aktivitas malicious |
-| **Brute Force Attack** | Metode trial-and-error untuk crack passwords atau encryption keys |
-| **Buffer Overflow** | Vulnerability dimana program menulis data melebihi allocated buffer boundaries |
-| **DDoS (Distributed Denial of Service)** | Serangan menggunakan multiple systems untuk overwhelm target dengan traffic |
-| **Credential Stuffing** | Automated injection of breached username/password pairs untuk unauthorized access |
-| **Drive-by Download** | Unintentional download malicious code saat visiting infected website |
-| **Evil Twin** | Rogue Wi-Fi access point yang menyamar sebagai legitimate hotspot |
-| **Fileless Attack** | Malicious activity yang beroperasi di memory tanpa installing files di disk |
+| **APT (Advanced Persistent Threat)** | Serangan canggih dan berkelanjutan dimana penyerang mempertahankan akses tanpa terdeteksi dalam jangka waktu lama |
+| **Backdoor** | Metode tersembunyi untuk melewati autentikasi normal dan mengakses sistem secara tidak sah |
+| **Botnet** | Jaringan komputer yang dikompromikan dan dikendalikan secara remote untuk aktivitas berbahaya |
+| **Brute Force Attack** | Serangan dengan cara mencoba berbagai kombinasi password atau kunci enkripsi secara berulang |
+| **Buffer Overflow** | Kerentanan dimana program menulis data melebihi batas buffer yang dialokasikan |
+| **DDoS (Distributed Denial of Service)** | Serangan terdistribusi untuk membanjiri target dengan lalu lintas sehingga layanan tidak dapat diakses |
+| **Credential Stuffing** | Serangan otomatis menggunakan kombinasi username/password yang bocor untuk akses tidak sah |
+| **Drive-by Download** | Unduhan malware secara tidak sengaja saat mengunjungi website yang terinfeksi |
+| **Evil Twin** | Hotspot Wi-Fi palsu yang menyamar sebagai access point legitim untuk mencuri data |
+| **Fileless Attack** | Serangan berbahaya yang beroperasi di memori tanpa menginstal file ke disk |
 | **Insider Threat** | Security risk yang berasal dari people dalam organization (employees, contractors) |
 | **Keylogger** | Software atau hardware yang merekam keystroke untuk mencuri credentials |
 | **Living off the Land** | Teknik menggunakan legitimate system tools untuk malicious purposes |
@@ -152,4 +152,4 @@ Comprehensive glossary of cybersecurity terms, attack methods, defense mechanism
 
 ---
 
-*Last updated: 2025-01-07*
+*Terakhir diperbarui: {{ git_revision_date_localized }}*

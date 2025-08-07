@@ -8,11 +8,11 @@ Comprehensive glossary of AI, Machine Learning, Data Science, and related emergi
 
 | Istilah | Definisi |
 |---------|----------|
-| **Algorithm** | Set of rules atau instructions yang diberikan kepada AI untuk help solve problems |
-| **Artificial Intelligence (AI)** | Simulation of human intelligence processes oleh machines atau computer systems |
-| **Machine Learning (ML)** | Subset of AI yang enables machines untuk learn dan improve dari experience tanpa explicit programming |
-| **Deep Learning** | Subset of ML yang uses neural networks dengan multiple layers untuk analyze data |
-| **Neural Network** | Computing system inspired oleh biological neural networks yang constitute animal brains |
+| **Algorithm** | Sekumpulan aturan atau instruksi yang diberikan kepada AI untuk membantu memecahkan masalah |
+| **Artificial Intelligence (AI)** | Simulasi proses kecerdasan manusia oleh mesin atau sistem komputer |
+| **Machine Learning (ML)** | Subset dari AI yang memungkinkan mesin belajar dan berkembang dari pengalaman tanpa pemrograman eksplisit |
+| **Deep Learning** | Subset dari ML yang menggunakan neural network dengan banyak lapisan untuk menganalisis data |
+| **Neural Network** | Sistem komputasi yang terinspirasi dari jaringan neural biologis yang membentuk otak hewan |
 | **Natural Language Processing (NLP)** | AI capability yang enables computers untuk understand, interpret, dan generate human language |
 | **Computer Vision** | Field of AI yang trains computers untuk interpret dan understand visual world |
 | **Reinforcement Learning** | Type of ML dimana agent learns untuk make decisions melalui trial dan error |
@@ -181,4 +181,4 @@ Comprehensive glossary of AI, Machine Learning, Data Science, and related emergi
 
 ---
 
-*Last updated: 2025-01-07*
+*Terakhir diperbarui: {{ git_revision_date_localized }}*

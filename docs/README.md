@@ -1,31 +1,91 @@
-# 🔬 Technology Glossary
+# 🔬 Glosarium Teknologi
 
-Comprehensive glossary for IT, Cybersecurity, AI, and emerging technologies. This repository serves as a reference guide for technical terminology across various technology domains.
-
-## 📚 Available Glossaries
-
-- [🛡️ Cybersecurity Terminology](cybersecurity/README.md) - Security terms, attacks, and defense mechanisms
-- [🤖 Artificial Intelligence](ai-ml/README.md) - AI, Machine Learning, and Data Science terms  
-- [💻 Software Development](software-dev/README.md) - Programming, frameworks, and development methodologies
-- [🌐 Networking & Infrastructure](networking/README.md) - Network protocols, cloud computing, and infrastructure
-- [⚡ Emerging Technologies](emerging-tech/README.md) - Blockchain, IoT, and cutting-edge technologies
-
-## 🎯 Purpose
-
-This glossary is designed to help:
-- IT professionals understand cross-domain terminology
-- Security teams communicate effectively across technical areas  
-- Students and newcomers learn technology concepts
-- Organizations maintain consistent technical vocabulary
-
-## 🔄 Updates
-
-This glossary is continuously updated with new terms and evolving definitions as technology advances.
-
-## 📞 Contributing
-
-For additions or updates, please create issues or contact the maintainer.
+Panduan lengkap istilah-istilah penting dalam IT, Cybersecurity, AI, dan teknologi emerging. Repository ini berfungsi sebagai referensi terminologi teknis di berbagai domain teknologi.
 
 ---
 
-*Last updated: 2025-01-07*
+## 📚 Glosarium Tersedia
+
+<div class="grid cards" markdown>
+
+-   🛡️ **Cybersecurity**
+
+    ---
+
+    Istilah keamanan siber, serangan, dan mekanisme pertahanan
+    
+    **100+ Terms** • **Attack Methods** • **Defense Tech**
+
+    [:octicons-arrow-right-24: Lihat Glosarium](cybersecurity/README.md)
+
+-   🤖 **AI & Machine Learning**
+
+    ---
+
+    Terminologi AI, ML, Deep Learning, dan Data Science
+    
+    **80+ Terms** • **Algorithms** • **Ethics**
+
+    [:octicons-arrow-right-24: Lihat Glosarium](ai-ml/README.md)
+
+-   💻 **Software Development**
+
+    ---
+
+    Programming, frameworks, dan metodologi pengembangan
+    
+    **Coming Soon** • **Programming** • **DevOps**
+
+    [:octicons-arrow-right-24: Lihat Glosarium](software-dev/README.md)
+
+-   🌐 **Networking & Infrastructure**
+
+    ---
+
+    Protokol jaringan, cloud computing, dan infrastruktur
+    
+    **Coming Soon** • **Networks** • **Cloud**
+
+    [:octicons-arrow-right-24: Lihat Glosarium](networking/README.md)
+
+-   ⚡ **Emerging Technologies**
+
+    ---
+
+    Blockchain, IoT, dan teknologi cutting-edge
+    
+    **Coming Soon** • **Blockchain** • **IoT**
+
+    [:octicons-arrow-right-24: Lihat Glosarium](emerging-tech/README.md)
+
+</div>
+
+---
+
+## 🎯 Tujuan
+
+Glosarium ini dirancang untuk membantu:
+
+- **IT Professionals** memahami terminologi lintas domain
+- **Tim Security** berkomunikasi efektif di berbagai area teknis
+- **Mahasiswa & Newcomers** mempelajari konsep teknologi
+- **Organisasi** mempertahankan vocabulary teknis yang konsisten
+
+## 🔄 Updates
+
+Glosarium ini terus diperbarui dengan istilah baru dan definisi yang berkembang seiring kemajuan teknologi.
+
+## 🚀 Quick Stats
+
+| Category | Terms | Status |
+|----------|-------|--------|
+| 🛡️ **Cybersecurity** | 100+ | ✅ Complete |
+| 🤖 **AI/ML** | 80+ | ✅ Complete |
+| 💻 **Software Dev** | - | 🚧 Coming Soon |
+| 🌐 **Networking** | - | 🚧 Coming Soon |
+| ⚡ **Emerging Tech** | - | 🚧 Coming Soon |
+| **Total** | **180+** | **Continuously Updated** |
+
+---
+
+*Terakhir diperbarui: {{ git_revision_date_localized }}*
