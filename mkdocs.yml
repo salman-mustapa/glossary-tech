@@ -1,0 +1,85 @@
+site_name: Technology Glossary
+site_description: Comprehensive glossary for IT, Cybersecurity, AI, and emerging technologies
+site_author: Salman Mustapa
+site_url: https://salman-mustapa.github.io/glossary-tech/
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+
+# Page tree
+nav:
+  - Home: README.md
+  - Glossaries:
+    - 🛡️ Cybersecurity: cybersecurity/README.md
+    - 🤖 AI & Machine Learning: ai-ml/README.md
+    - 💻 Software Development: software-dev/README.md
+    - 🌐 Networking & Infrastructure: networking/README.md
+    - ⚡ Emerging Technologies: emerging-tech/README.md
+
+# Extra
+repo_url: https://github.com/salman-mustapa/glossary-tech
+repo_name: salman-mustapa/glossary-tech
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/samrifa
+    - icon: fontawesome/regular/envelope
+      link: mailto:samrifa@example.com
+  generator: false
+
+copyright: |
+  <p>
+    © 2025 <a href="https://github.com/salman-mustapa" target="_blank">Salman Mustapa</a>. All rights reserved.
+    <br>
+    <small>
+      Licensed under <a href="https://github.com/salman-mustapa/technology-glossary/blob/main/LICENSE" target="_blank">MIT License</a>
+    </small>
+  </p>
