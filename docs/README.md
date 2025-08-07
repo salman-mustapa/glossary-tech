@@ -87,5 +87,4 @@ Glosarium ini terus diperbarui dengan istilah baru dan definisi yang berkembang 
 | **Total** | **180+** | **Continuously Updated** |
 
 ---
-
-*Terakhir diperbarui: {{ git_revision_date_localized }}*
+⭐ Star repo yang berguna dan mari belajar bersama!
