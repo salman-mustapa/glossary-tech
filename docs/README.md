@@ -16,7 +16,7 @@ Panduan lengkap istilah-istilah penting dalam IT, Cybersecurity, AI, dan teknolo
     
     **100+ Terms** • **Attack Methods** • **Defense Tech**
 
-    [:octicons-arrow-right-24: Lihat Glosarium](cybersecurity/README.md)
+    [➡️ **Lihat Glosarium**](cybersecurity/README.md)
 
 -   🤖 **AI & Machine Learning**
 
@@ -26,7 +26,7 @@ Panduan lengkap istilah-istilah penting dalam IT, Cybersecurity, AI, dan teknolo
     
     **80+ Terms** • **Algorithms** • **Ethics**
 
-    [:octicons-arrow-right-24: Lihat Glosarium](ai-ml/README.md)
+    [➡️ **Lihat Glosarium**](ai-ml/README.md)
 
 -   💻 **Software Development**
 
@@ -36,7 +36,7 @@ Panduan lengkap istilah-istilah penting dalam IT, Cybersecurity, AI, dan teknolo
     
     **Coming Soon** • **Programming** • **DevOps**
 
-    [:octicons-arrow-right-24: Lihat Glosarium](software-dev/README.md)
+    [➡️ **Lihat Glosarium**](software-dev/README.md)
 
 -   🌐 **Networking & Infrastructure**
 
@@ -46,7 +46,7 @@ Panduan lengkap istilah-istilah penting dalam IT, Cybersecurity, AI, dan teknolo
     
     **Coming Soon** • **Networks** • **Cloud**
 
-    [:octicons-arrow-right-24: Lihat Glosarium](networking/README.md)
+    [➡️ **Lihat Glosarium**](networking/README.md)
 
 -   ⚡ **Emerging Technologies**
 
@@ -56,7 +56,7 @@ Panduan lengkap istilah-istilah penting dalam IT, Cybersecurity, AI, dan teknolo
     
     **Coming Soon** • **Blockchain** • **IoT**
 
-    [:octicons-arrow-right-24: Lihat Glosarium](emerging-tech/README.md)
+    [➡️ **Lihat Glosarium**](emerging-tech/README.md)
 
 </div>
 
